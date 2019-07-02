@@ -1,11 +1,3 @@
-# CSC 413 - Project One
-
-## Student Name  : Carlos Lopez
-
-## Student ID    : 918559153
-
-## Student Email : clopez33@mail.sfsu.edu
-
 ### Note failure to completely fill out this README.md could cause you to recieve a  0 for your project until correctly done
 
 ## Adding the JUnit 5 Jars to your project.
